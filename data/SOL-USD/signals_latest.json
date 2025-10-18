@@ -1,12 +1,12 @@
 {
-  "date": "2025-10-16",
+  "date": "2025-10-17",
   "signal": "BUY",
   "position": "LONG",
   "phase_quadrant": "Quadrante 1 (Minimo -> Salita)",
-  "phase_value": -3.0234157564514255,
-  "oscillator_value": -17.003090056224977,
-  "signal_strength": 6.93651276977529,
+  "phase_value": -2.8522862335460246,
+  "oscillator_value": -20.237048397127467,
+  "signal_strength": 8.76062495159862,
   "confidence": "LOW",
-  "price": 184.6889515485,
-  "timestamp": "2025-10-17T21:38:07.309586"
+  "price": 182.0347838434,
+  "timestamp": "2025-10-18T21:38:23.927697"
 }
