@@ -1,28 +1,28 @@
 {
-  "timestamp": "2025-12-05T21:41:37.891579",
+  "timestamp": "2025-12-06T21:39:14.009827",
   "ticker": "SOL-USD",
-  "data_points": 2025,
+  "data_points": 2026,
   "latest_signal": {
-    "date": "2025-12-04",
+    "date": "2025-12-05",
     "signal": "HOLD",
     "position": "LONG",
     "phase_quadrant": "Quadrante 1 (Minimo -> Salita)",
-    "phase_value": -2.0063901666245005,
-    "oscillator_value": -15.564110138777522,
-    "signal_strength": 46.05704410088516,
+    "phase_value": -1.9955699592982774,
+    "oscillator_value": -14.45328361706001,
+    "signal_strength": 44.061573931921295,
     "confidence": "MEDIUM",
-    "price": 139.0145291061,
-    "timestamp": "2025-12-05T21:41:36.898425"
+    "price": 133.3230052082,
+    "timestamp": "2025-12-06T21:39:12.994664"
   },
   "backtest_metrics": {
-    "total_return_%": 164.65113197046813,
+    "total_return_%": 168.74570572672548,
     "max_drawdown_%": 14.704291252017224,
-    "sharpe_ratio": 0.9819858746939355,
-    "sortino_ratio": 0.49478868457071506,
-    "calmar_ratio": 3.400789665544268,
-    "total_trades": 11,
-    "win_rate_%": 63.63636363636363,
-    "profit_factor": 5.940743385154738
+    "sharpe_ratio": 0.9946200784417356,
+    "sortino_ratio": 0.44339270786418405,
+    "calmar_ratio": 3.4437344820602673,
+    "total_trades": 10,
+    "win_rate_%": 70.0,
+    "profit_factor": 6.715169627362967
   },
   "cycle_analysis": {
     "dominant_period": 252.0,
