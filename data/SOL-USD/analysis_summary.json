@@ -1,18 +1,18 @@
 {
-  "timestamp": "2026-01-04T21:41:45.956497",
+  "timestamp": "2026-01-05T21:44:25.871258",
   "ticker": "SOL-USD",
-  "data_points": 2055,
+  "data_points": 2056,
   "latest_signal": {
-    "date": "2026-01-03",
+    "date": "2026-01-04",
     "signal": "HOLD",
     "position": "LONG",
     "phase_quadrant": "Quadrante 1 (Minimo -> Salita)",
-    "phase_value": -1.8671709997891575,
-    "oscillator_value": -4.888909420025016,
-    "signal_strength": 20.99781914547583,
+    "phase_value": -1.7904935856874291,
+    "oscillator_value": -3.3688716256950073,
+    "signal_strength": 19.18614270511282,
     "confidence": "LOW",
-    "price": 133.2984718586,
-    "timestamp": "2026-01-04T21:41:44.910046"
+    "price": 133.8996156501,
+    "timestamp": "2026-01-05T21:44:24.667231"
   },
   "backtest_metrics": {
     "total_return_%": 175.67493632650914,
